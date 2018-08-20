@@ -1,0 +1,34 @@
+Wie hat mir das DIFF der beiden Versionen geholfen, den Fehler zu finden?
+
+DIFF zeigt nur die Zeilen im Code an, welche sich zwischen der ersten und
+zweiten Version geändert haben. Der Aufwand, Fehler im Code zu finden, 
+verringert sich dadurch massiv. (2018-08-16: 09:37)
+
+Wie könnte der Zugang zu allen Versionen eines Files mich zu einem besseren 
+Programmierer machen?
+
+Ich könnte verstehen, wie der Code entstanden ist und anhand der Änderungen
+im File viel lernen (2018-08-16 09:41)
+
+Was sind die Vor- und Nachteile vom manuellen Wählen der Commits gegen
+automatisches erstellen von Versionen wie in Google Docs?
+
+Vorteile: jeder Commit kann logisch und zum richtien Zeitpunkt erfolgen.
+Nachteile: möglicherweise vergesse ich zwischendurch eine logische Änderung
+zu commiten.
+
+Warum erlauben winige System zur Versionkontrolle das Speichern mehrerer 
+Files in einem Commit und andere behandeln jedes File deparat?
+
+Dies hat mit dem Einsatzzweck der Versionskontrolle zu tun. In der
+Programmierung werden gehören meistens mehrere Files zu einer logischen
+Änderung.
+
+Wie kann git log und git diff eingesetzt werden um die Historie der Files
+anzusehen?
+
+git log: zeigt alle Commits und ihre Beschreibung.
+git diff commit [n] commit[n]: zeigt die Unterschiede zweier Commits auch
+in unterschiedlichen Files.
+
+
