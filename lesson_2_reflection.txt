@@ -1,18 +1,24 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git init erstellt die nötigen Ordner .git, damit Änderungen am Code sichtbar werden
+* Git init erstellt die nötigen Ordner .git, damit Änderungen am Code sichtbar werden
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-In die Stating Area kommen alle neuen Files, welche mit einem gemeinsamen Commit in das Repo 
+* In die Stating Area kommen alle neuen Files, welche mit einem gemeinsamen Commit in das Repo 
 Aufgenommen werden sollen.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+* Alle Files mit Änderungen müssen zur Staging Arrea hinzugefügt werden, bevor Sie 
+der repository als neuer Commit hinzugefügt werden.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+* Experimentieren ohne den betsehenden Code zu stören.
+* Neue Features implementieren
 
 How do the diagrams help you visualize the branch structure?
 
