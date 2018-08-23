@@ -7,7 +7,9 @@ an einem Projekt arbeite.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+* Remote und Lokal zusammenzulegen kann auch zu Konflikten führen
+welche manuell behoben werden müssen. Ich deshalb den Zeitpunkt selbst fetlegen, 
+wann Änderungen von remote in mein lokales Repository übernommen werden. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
