@@ -30,7 +30,7 @@ the diagram the way we do?
 
 * Zwei Branches werden chronologisch zusammengefügt. Die einzelnen Commits einer Branch 
 müssen also nicht mehr unbedingt aufeinander folgen. Die git diff Funktion zeigt dann 
-wohl viel mehr Änderungen an, als zwischen zwei aufeinanderfolgenden Commits einer Branch
+viel mehr Änderungen an, als zwischen zwei aufeinanderfolgenden Commits einer Branch
 gemacht wurden. Um die chronologische Änderung eines Commits zu seinem Parent anzuzeigen
 kann die Funktion git show [commit] verwendet werden.
 
