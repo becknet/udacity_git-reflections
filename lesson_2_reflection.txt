@@ -36,3 +36,7 @@ kann die Funktion git show [commit] verwendet werden.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+* Der manuelle Merge Prozess würde viel zu viel Zeit in anspruch nehmen. Einfache Konflikte 
+können deshalb gut von GIT übernommen werden. Schwierige Konflikte müssen von Hand gelöst
+werden, da GIT die nötigre Intelligenz dazu fehlt.
