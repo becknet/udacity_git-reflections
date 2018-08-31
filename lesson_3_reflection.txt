@@ -8,13 +8,18 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
 * Remote und Lokal zusammenzulegen kann auch zu Konflikten führen
-welche manuell behoben werden müssen. Ich deshalb den Zeitpunkt selbst fetlegen, 
-wann Änderungen von remote in mein lokales Repository übernommen werden. 
+welche manuell behoben werden müssen. Ich will deshalb den Zeitpunkt selbst fetlegen, 
+wann Änderungen von Remote in mein lokales Repository übernommen werden. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branching: eine Branch wird im lokalen Repository erstellt.
+Cloning: Kopie eines kompletten Repositories, entweder Remote > Lokal / Lokal > Lokal
+    Mitarbeit an einem bestehenden Projekt auf GitHub
+Forking: Kopie eines kompletten Repositories auf GitHub. Dadurch wir im eigenen Account 
+eine Kopie eines anderen Repositories erstellt. Im Original sind alle Forks ersichtlich.
+    Kopie eines Projektes auf GitHub und selbständiges weiterarbeiten.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
